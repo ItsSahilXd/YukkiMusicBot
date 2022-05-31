@@ -172,4 +172,7 @@ HELP_5 = """🔰**<u>ADD & REMOVE SUDO USERS :</u>**
 
 **Example:** `/broadcast -user -assistant -pin Hello Testing`
 
+
+Ok bye
+
 """
